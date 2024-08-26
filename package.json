@@ -1,0 +1,24 @@
+{
+  "name": "serde-ts",
+  "version": "1.0.1",
+  "description": "A TypeScript library for serialization and deserialization.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassicDP/serde-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "serialization",
+    "deserialization"
+  ],
+  "author": "Your Name <youremail@example.com>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ]
+}
